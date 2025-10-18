@@ -1,6 +1,7 @@
 # Logs
 *.log
 !data/*.log
+logs/
 
 # Node modules
 node_modules/
@@ -25,5 +26,4 @@ Thumbs.db
 tmp/
 temp/
 *.tmp
-.claude/
 .mcp.json
