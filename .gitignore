@@ -1,0 +1,29 @@
+# Logs
+*.log
+!data/*.log
+
+# Node modules
+node_modules/
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.claude/
+.mcp.json
