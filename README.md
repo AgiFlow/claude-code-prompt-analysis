@@ -131,6 +131,8 @@ Sub-agents spawn entirely separate conversations with their own system prompts.
 | **Security** | Direct exec (sandbox required) | Prompt only | Access-controlled |
 | **Use Case** | Domain expertise | Workflows | External integrations |
 
+**MCP Resources:** Check out [AgiFlow's AI Code Toolkit](https://github.com/AgiFlow/aicode-toolkit) for production-ready MCP servers and tooling.
+
 ### Output Styles vs Sub-Agents
 
 | Dimension | Output Styles | Sub-Agents |
@@ -150,4 +152,4 @@ Analysis derived from network logs in `data/`:
 - `slash-command.log` - File content injection
 - `sub-agent.log` - Task tool delegation
 
-Full technical writeup: [blog-effective-claude-code.md](blog-effective-claude-code.md)
+Full technical writeup: [Claude Code Internals: Reverse Engineering Prompt Augmentation](https://agiflow.io/blog/claude-code-internals-reverse-engineering-prompt-augmentation)
