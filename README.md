@@ -176,4 +176,4 @@ Analysis derived from network logs in `data/`:
 - `slash-command.log` - File content injection
 - `sub-agents.log` - Task tool delegation
 
-Full technical writeup: [blog.md](./blog.md) - Deep dive into all five mechanisms with network traces, security analysis, and practical recommendations.
+Full technical writeup: [blog.md](https://agiflow.io/blog/claude-code-internals-reverse-engineering-prompt-augmentation) - Deep dive into all five mechanisms with network traces, security analysis, and practical recommendations.
